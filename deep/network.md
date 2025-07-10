@@ -59,5 +59,3 @@ Network diagram of Fabric Network
 ![Diagram]({D5950D4F-8641-40CD-8507-30D11F08A4FA}.png)
 
 ---
-
-_More details about Peer Node and Orderer Node will follow._
